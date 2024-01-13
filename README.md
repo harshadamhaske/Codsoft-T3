@@ -1,1 +1,1 @@
-# Codsoft-T3
+This repository includes a basic html ,css and javascript files which creates a calculator website. This calculator contains 1 to 10 digit buttons as well as operation buttons like addition , subtraction , multiplication and divsion . It also includes a display section which displays result of operations.
